@@ -3,7 +3,7 @@
 **Track 01 · Day 24** · Mã đề: `G 4 9 7 G X`
 
 - **Họ tên:** Nguyễn Xuân Tới
-- **Mã số:** 2A20260010
+- **Mã số:** 2A202600810
 - **Bàn:** Số 3
 - **Ngành đã chọn:** HR / Tuyển dụng
 
